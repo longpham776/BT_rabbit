@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "sprites.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "thoden": {
+      "__uuid__": "ade0e7e3-7eff-402c-a91c-9fa3d2e5536f"
+    },
+    "thonau": {
+      "__uuid__": "41e57354-6ee8-4b35-8c68-3c53ea684815"
+    },
+    "thotrang": {
+      "__uuid__": "47da2848-65fe-46c8-99d5-75ee528707da"
+    },
+    "thoxam": {
+      "__uuid__": "7833e0d9-05d6-45d9-a377-1b583142fbcf"
+    }
+  }
+}

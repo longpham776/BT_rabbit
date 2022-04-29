@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thoxam",
+    "texture": "623cbc7e-d18d-4fff-86cb-dccbfc88aa7e",
+    "atlas": "0f0db784-d635-4409-98f6-5f1b50af9193",
+    "rect": [
+      0,
+      0,
+      157,
+      223
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      508,
+      254
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
